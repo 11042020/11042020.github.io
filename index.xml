@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dorra &amp; Dhia - 22 Avril on Mariage</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Dorra &amp; Dhia - 22 Avril on Mariage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cagnotte</title>
+      <link>http://localhost:1313/post/giftlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/giftlist/</guid>
+      <description>Ne vous sentez pas obligé de nous faire un cadeau - votre présence est suffisante pour nous !
+Après notre mariage, nous allons voyager et travailler à l&amp;rsquo;étranger pendant un an, alors nous vous serions très reconnaissants pour toute contribution que vous voudriez y apporter.
+Ou si vous préférez, vous pouvez faire un don en ligne en cliquant sur here.</description>
+    </item>
+    
+    <item>
+      <title>Info</title>
+      <link>http://localhost:1313/post/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/info/</guid>
+      <description>Dress code Le code vestimentaire est celui de l&amp;rsquo;été.
+Ceremony Everyone is invited to the wedding ceremony at Merton College Chapel. Please arrive by 1.15pm.
+The address is:
+Merton College
+Merton Street
+Oxford
+OX1 4JD
+There will be some parking spaces available about 15-20 minutes&amp;rsquo; walk from the chapel at St Catherine&amp;rsquo;s College on Manor Road (OX1 3UJ).
+The traffic in Oxford on a Friday afternoon can be very heavy so we recommend allowing an extra 20 minutes for your journey time.</description>
+    </item>
+    
+    <item>
+      <title>Reservation</title>
+      <link>http://localhost:1313/post/rsvp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/rsvp/</guid>
+      <description>Nous espérons vraiment que vous pourrez y assister ! Nous vous serions reconnaissants de bien vouloir répondre dans les deux semaines suivant la réception de l&amp;rsquo;invitation.
+Veuillez remplir le formulaire suivant formulaire suivant</description>
+    </item>
+    
+  </channel>
+</rss>

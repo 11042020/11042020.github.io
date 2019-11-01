@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/post/giftlist/</loc>
+    <loc>https://dorraaya.github.io/post/giftlist/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://dorraaya.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dorraaya.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/info/</loc>
+    <loc>https://dorraaya.github.io/post/info/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://dorraaya.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/rsvp/</loc>
+    <loc>https://dorraaya.github.io/post/rsvp/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dorraaya.github.io/tags/</loc>
   </url>
   
 </urlset>
